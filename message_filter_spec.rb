@@ -1,4 +1,0 @@
-
-describe MessageFilter do
-end
-
