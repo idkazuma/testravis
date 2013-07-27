@@ -15,5 +15,6 @@ describe Array, "when empty" do
   after do
     @empty_array = nil
   end
+
 end
 
